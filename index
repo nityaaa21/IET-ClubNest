@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>iet clubnest</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="header">
+<div class="container">
+ <b>NEWS : </b>
+ <marquee> <!--it scrolls the content-->
+ My college: Intelligence plus curisoity-that is the root of true education.
+ </marquee>
+</div>
+</div> 
+
+<div class="container">
+<img src="C:\Users\gauta\Downloads\download.jpeg" class="logo">
+
+<nav>
+<a href="#">Home</a>
+<a href="#">About us</a>
+<a href="#">Events</a>
+<a href="#">Gallary</a>
+<a href="#">Notice Board</a>
+<a href="#">Blogs</a>
+<a href="#">Contact Us</a>
+</nav>
+</div>
+
+<div class="slider">
+<img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\bckground.jpg">
+</div>
+
+<div class="main-section" style="background:#f0f3fa;">
+<div class="container">
+<div class="event">
+<h2 class="heading">Campus News</h2>
+<div>
+<marquee direction="up" scrollamount="7" style="height:340px;">
+<ul>
+<li><i>01-Dec-2023 :</i> Iet clubnest is simply a club which contains the clubs data. <img src"C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\au.jpg" ></li>
+<li><i>01-Dec-2023 :</i> Iet clubnest is simply a club which contains the clubs data. <img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\au.jpg" ></li>
+<li><i>01-Dec-2023 :</i> Iet clubnest is simply a club which contains the clubs data. <img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\au.jpg" ></li>
+<li><i>01-Dec-2023 :</i> Iet clubnest is simply a club which contains the clubs data. <img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\au.jpg" ></li>
+<li><i>01-Dec-2023 :</i> Iet clubnest is simply a club which contains the clubs data. <img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\au.jpg" ></li>
+<li><i>01-Dec-2023 :</i> Iet clubnest is simply a club which contains the clubs data. <img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\au.jpg" ></li>
+<li><i>01-Dec-2023 :</i> Iet clubnest is simply a club which contains the clubs data. <img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\au.jpg" ></li>
+
+</ul>
+</marquee>
+
+</div>
+
+</div>
+<div class="event">
+<h2 class="heading">Events</h2>
+<div>
+<ul>
+<li><span class="event-date">3 <br>Dec</span> Coding Club organizes the Python quiz.  </li>
+<li><span class="event-date">3 <br>Dec</span> Coding Club organizes the Python quiz.  </li>
+<li><span class="event-date">3 <br>Dec</span> Coding Club organizes the Python quiz.  </li>
+<li><span class="event-date">3 <br>Dec</span> Coding Club organizes the Python quiz.  </li>
+<li><span class="event-date">3 <br>Dec</span> Coding Club organizes the Python quiz.  </li>
+</ul>
+</div>
+</div>
+<div class="event">
+<h2 class="heading">Notice Boards</h2>
+<div>
+<ul>
+<li><img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\i.jpg"> Iet clubnest is simply a club which contains the clubs data.</li>
+<li><img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\i.jpg"> Iet clubnest is simply a club which contains the clubs data.</li>
+<li><img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\i.jpg"> Iet clubnest is simply a club which contains the clubs data.</li>
+<li><img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\i.jpg"> Iet clubnest is simply a club which contains the clubs data.</li>
+<li><img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\i.jpg"> Iet clubnest is simply a club which contains the clubs data.</li>
+<li><img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\i.jpg"> Iet clubnest is simply a club which contains the clubs data.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<div class="main-section">
+<div class="container about-us">
+<div>
+<h2 class="heading">About My IET ClubNest</h2>
+<h4>A Unique IET ClubNest .</h4>
+<p>ClubNest is on a mission to create a vibrant community that transcends the boundaries of conventional tech clubs. We strive to empower individuals with the skills, knowledge, and mindset necessary to thrive in the ever-evolving landscape of information technology.</p>
+</div>
+<img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\clg.jpeg">
+</div>
+</div>
+
+<div class="main-section award" style="background:#f0f3fa;">
+<div class="container">
+<div class="event">
+<h2 class="heading">Events Info</h2>
+<div>
+<h3>MY CODING CLUB</h3>
+<p><b>Co-ordinator : </b> Er. Aditi Gupta</p>
+<p><b>Club :</b> Coding Cub</p>
+<p><b>College : </b>IET Khandari Campus, Agra.</p>
+<p><b>Contact No. : </b> +1234567898</p>
+<p><b>Email Id : </b> Contact@admin Aditi</p>
+</div>
+</div>
+
+<div class="event">
+<h2 class="heading">Our Clubs Awards</h2>
+<div>
+<img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\award.jpeg">
+</div>
+</div>
+
+<div class="event">
+<h2 class="heading">My Clubs Certificate</h2>
+<div>
+<img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\certificate.jpeg">
+</div>
+</div>
+</div>
+</div>
+
+<div class="main-section">
+<div class="container">
+<h2 class="heading">What Students Say About Our Clubs</h2>
+<div class="testimonial">
+<div class="testimonial-text">
+"IET" refers to the Institution of Engineering and Technology, it's a professional organization for engineers and technicians. Clubs associated with such institutions might have testimonials from members or participants highlighting their experiences, professional development, or the benefits they gained from being part of the club.
+</div> 
+<div class="testimonial-details">
+<div class="testimonial-img">
+<img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\sri.jpeg">
+</div>
+<div class="testimonial-name">
+<h5>Ankit Srivastav</h5>
+<p>ML Developer</p>
+</div> 
+</div>
+</div>
+<div class="testimonial">
+<div class="testimonial-text">
+"IET" refers to the Institution of Engineering and Technology, it's a professional organization for engineers and technicians. Clubs associated with such institutions might have testimonials from members or participants highlighting their experiences, professional development, or the benefits they gained from being part of the club.
+</div> 
+<div class="testimonial-details">
+<div class="testimonial-img">
+<img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\ni.jpeg">
+</div>
+<div class="testimonial-name">
+<h5>Nitya Gautam</h5>
+<p>Web Developer</p>
+</div> 
+</div>
+</div>
+<div class="testimonial">
+<div class="testimonial-text">
+"IET" refers to the Institution of Engineering and Technology, it's a professional organization for engineers and technicians. Clubs associated with such institutions might have testimonials from members or participants highlighting their experiences, professional development, or the benefits they gained from being part of the club.
+</div> 
+<div class="testimonial-details">
+<div class="testimonial-img">
+<img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\nityaaaaaaaaaaaaa.png">
+</div>
+<div class="testimonial-name">
+<h5>Nisha</h5>
+<p>Web Developer</p>
+</div> 
+</div>
+</div>
+</div>
+</div>
+
+<div class="main-section gallery" style="background:#f0f3fa;">
+<div class="container">
+<h2 class="heading">Our Clubs Gallery</h2>
+<img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\cl.jpeg">
+</div>
+</div>
+
+<div class="main-section">
+<div class="container">
+<h2 class="heading">Placement</h2>
+<marquee class="placement" direction="left" scrollamount="10">
+
+<img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\nnnnnnn.jpeg">
+</marquee>
+</div>
+</div>
+
+<div class="footer">
+<div class="container">
+<div class="footer-sect">
+<img class="footer-logo" src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\iet-logo-new.jpg">
+</div>
+
+<div class="footer-sect">
+<a href=#">Home</a>
+<a href=#">About us</a>
+<a href=#">Demo</a>
+<a href=#">Event</a>
+<a href=#">Gallery</a>
+<a href=#">Press Release</a>
+<a href=#">Clubs</a>
+<a href=#">Contact Us</a>
+</div>
+
+<div class="footer-sect">
+<img src="C:\Users\gauta\OneDrive\Desktop\iet clubnest\images\OIP.jpeg">
+</div>
+</div>
+</div>
+</body>
+</html>
